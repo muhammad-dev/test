@@ -11,6 +11,6 @@ $googlePlaces->setLocation($latitude . ',' . $longitude);
 
 $googlePlaces->setRadius(5000);
 $results = $googlePlaces->search(); //
-
+$test;
 
 ?>
